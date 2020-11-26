@@ -5,6 +5,9 @@ multilingual = false
 src = "src"
 title = "the books"
 
+[build]
+build-dir = "docs"
+
 [output.html.playpen]
 editable = true
 copy-js = true
